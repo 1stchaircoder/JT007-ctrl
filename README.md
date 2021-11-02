@@ -2,7 +2,7 @@
 The name's Joshua. I'm a budding Software Engineer from Nigeria 🇳🇬. I have a strong interest in Javascript and all it can accomplish when employed by a curious mind. I have a strong passion for React Native and the Open-Source (and larger developer) community.
 
 🔭 I’m currently working on:
--Open Source Contribution for Hacktoberfest 2021
+-Remote internship.
 
 -Independent work building with React Native
 
@@ -17,6 +17,5 @@ I'm also looking for opportunities to collaborate with seasoned devs. I would ap
 
 🥂 Cheers..
 
-:punch:Carpe diem!
+:punch:Memento mori.
 
-⚡ Random fact: There are at least 1 million ants for every living human.
