@@ -1,5 +1,5 @@
 ### Hello World 👋{_he he he_:grinning:}
-The name's Joshua. I'm a budding Software Engineer from Nigeria 🇳🇬. I have a strong interest in Javascript and all it can accomplish when employed by a curious mind. I have a strong passion for React Native and the Open-Source (and the larger developer) community.
+The name's Joshua. I'm a budding Software Engineer from Nigeria 🇳🇬. I have a strong interest in Javascript and all it can accomplish when employed by a curious mind. I have a similarly strong passion for React Native and the Open-Source (and the larger developer) community.
 
 🔭 I’m currently working on:
 
