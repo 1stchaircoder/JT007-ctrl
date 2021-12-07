@@ -7,7 +7,7 @@ The name's Joshua. I'm a budding Software Engineer from Nigeria 🇳🇬. I have
 
 -Independent work and projects building with React Native
 
--Technical writing and journaling.
+-Technical writing and journaling at [hashnode](https://hashnode.com/@firstChairCoder)
 
 🌱 I’m currently learning ... a lot of things. Find out more from the forked repo ("Learning Tracker").
 I'm also looking for opportunities to collaborate with seasoned devs. I would appreciate reaching out 📫 through the following:
