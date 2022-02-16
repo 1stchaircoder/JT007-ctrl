@@ -3,7 +3,7 @@ The name's Joshua. I'm a Software Engineer from Nigeria 🇳🇬. I have a stron
 
 🔭 I’m currently working on:
 
--Remote internship(and actively seeking job opportunities).
+-Remote tasks and freelancing.(and actively seeking job opportunities).
 
 -Independent work and projects building with React Native
 
