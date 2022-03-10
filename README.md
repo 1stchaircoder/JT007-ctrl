@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/firstChairCoder)
 ### Hello World <img src="https://github.com/firstChairCoder/Cat_ScratchBook_BackDrop/blob/develop/assets/waver.gif" width="25px"> {_he he he_😁 😁}
 
 <img align="center" src="https://c.tenor.com/ch3vWUSkaiEAAAAM/eminem-hey.gif" width="250"/>
