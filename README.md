@@ -8,6 +8,12 @@ Interested in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6
 
 Getting more engaged in open source and helping beginner RN devs when I can :punch:
 
+## Skills & Experience
+* ⚛️ React / React-Native
+* 🕸️ Javascript / Typescript
+* ℹ️ SQLite, MySQL
+* :large_blue_diamond: (Currently Learning) Java + Kotlin :bangbang:
+
 <details>
 <summary>Stats</summary>
 <br />
