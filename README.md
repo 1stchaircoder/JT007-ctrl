@@ -13,7 +13,7 @@ Getting more engaged in open source and helping beginner RN devs when I can :pun
 * 🕸️ Typescript
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript_logo" width="24" height="24"/>
 * ℹ️ SQLite, MySQL
-* :large_blue_diamond: (Currently Learning) Java + Kotlin ‼️
+* :large_blue_diamond: (Currently Learning) SwiftUI ‼️
 
 <details>
 <summary>Stats</summary>
